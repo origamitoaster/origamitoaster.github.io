@@ -2,14 +2,14 @@
 title: Ryan
 subtitle: Gosiaco
 email: rgosiaco@ucdavis.edu
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: A collection of my data science<br /> and machine learning related projects.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 2477 Sycamore Lane, APT M10
+street_address: 2477 Sycamore Lane, Apt M10
 city: Davis
 state: CA
-zip_code: 55555
+zip_code: 95616
 country: USA
 phone: (909) 297-6472
 
