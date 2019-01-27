@@ -1,5 +1,5 @@
 ---
-title: Landing
+title: Projects
 layout: landing
 description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
 image: assets/images/pic07.jpg
@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Project 1</h2>
 		</header>
 		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
 	</div>
@@ -28,7 +28,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Project 2</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
@@ -44,7 +44,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Project 3</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
@@ -60,7 +60,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Project 4</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
@@ -75,7 +75,7 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>About Me</h2>
 		</header>
 		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
 		<ul class="actions">
